@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for crm-parent" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.20/lombok-1.18.20.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct-processor/1.5.3.Final/mapstruct-processor-1.5.3.Final.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/mapstruct/mapstruct/1.5.3.Final/mapstruct-1.5.3.Final.jar" />
+        </processorPath>
+        <module name="crm-gateway" />
+        <module name="crm-j3-area" />
+        <module name="code-generator" />
+        <module name="crm-j3-warehouse" />
+        <module name="crm-j2-orgstructure" />
+        <module name="crm-apis" />
+        <module name="crm-common" />
+        <module name="crm-login" />
+        <module name="crm-doc" />
+        <module name="crm-j4-commodity" />
+        <module name="crm-systemmanagement" />
+        <module name="fastdfs-spring-boot-starter" />
+        <module name="crm-oauth2" />
+        <module name="crm-j3-ownerindex" />
+        <module name="crm-j2-purchasemanagement" />
+        <module name="crm-systemindex" />
+        <module name="crm-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="code-generator" target="1.8" />
+      <module name="crm-apis" target="1.8" />
+      <module name="crm-common" target="1.8" />
+      <module name="crm-doc" target="1.8" />
+      <module name="crm-domain" target="1.8" />
+      <module name="crm-gateway" target="1.8" />
+      <module name="crm-j2-orgstructure" target="1.8" />
+      <module name="crm-j2-purchasemanagement" target="1.8" />
+      <module name="crm-j3-area" target="1.8" />
+      <module name="crm-j3-ownerindex" target="1.8" />
+      <module name="crm-j3-warehouse" target="1.8" />
+      <module name="crm-j4-commodity" target="1.8" />
+      <module name="crm-login" target="1.8" />
+      <module name="crm-oauth2" target="1.8" />
+      <module name="crm-parent" target="1.8" />
+      <module name="crm-systemindex" target="1.8" />
+      <module name="crm-systemmanagement" target="1.8" />
+      <module name="fastdfs-spring-boot-starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="code-generator" options="-parameters" />
+      <module name="crm-apis" options="-parameters" />
+      <module name="crm-common" options="-parameters" />
+      <module name="crm-doc" options="-parameters" />
+      <module name="crm-domain" options="-parameters" />
+      <module name="crm-gateway" options="-parameters" />
+      <module name="crm-j2-orgstructure" options="-parameters" />
+      <module name="crm-j2-purchasemanagement" options="-parameters" />
+      <module name="crm-j3-area" options="-parameters" />
+      <module name="crm-j3-ownerindex" options="-parameters" />
+      <module name="crm-j3-warehouse" options="-parameters" />
+      <module name="crm-j4-commodity" options="-parameters" />
+      <module name="crm-login" options="-parameters" />
+      <module name="crm-oauth2" options="-parameters" />
+      <module name="crm-systemindex" options="-parameters" />
+      <module name="crm-systemmanagement" options="-parameters" />
+      <module name="fastdfs-spring-boot-starter" options="-parameters" />
+    </option>
+  </component>
+</project>

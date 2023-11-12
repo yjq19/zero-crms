@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-build/2.3.5.RELEASE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/code-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-apis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-doc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j2-orgstructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j2-purchasemanagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-area/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-ownerindex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-warehouse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j4-commodity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-oauth2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-systemindex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-systemmanagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/fastdfs-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

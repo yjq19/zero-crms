@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/code-generator/code-generator.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/code-generator/code-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-apis/crm-apis.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-apis/crm-apis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-common/crm-common.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-common/crm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-doc/crm-doc.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-doc/crm-doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-domain/crm-domain.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-domain/crm-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-gateway/crm-gateway.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-gateway/crm-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j2-orgstructure/crm-j2-orgstructure.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j2-orgstructure/crm-j2-orgstructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j2-purchasemanagement/crm-j2-purchasemanagement.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j2-purchasemanagement/crm-j2-purchasemanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-area/crm-j3-area.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-area/crm-j3-area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-ownerindex/crm-j3-ownerindex.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-ownerindex/crm-j3-ownerindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-warehouse/crm-j3-warehouse.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j3-warehouse/crm-j3-warehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j4-commodity/crm-j4-commodity.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-j4-commodity/crm-j4-commodity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-login/crm-login.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-login/crm-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-oauth2/crm-oauth2.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-oauth2/crm-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-parent.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-systemindex/crm-systemindex.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-systemindex/crm-systemindex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-systemmanagement/crm-systemmanagement.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/crm-systemmanagement/crm-systemmanagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zero-one-crmsys/crm-java/fastdfs-spring-boot-starter/fastdfs-spring-boot-starter.iml" filepath="$PROJECT_DIR$/zero-one-crmsys/crm-java/fastdfs-spring-boot-starter/fastdfs-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/red-orange-crm-system-copy.iml" filepath="$PROJECT_DIR$/.idea/red-orange-crm-system-copy.iml" />
+    </modules>
+  </component>
+</project>
